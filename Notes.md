@@ -33,3 +33,11 @@ Commands:
   docker volume create 
   docker container run -d --name nginx -p 80:80 -v ${pwd}:/usr/share/nginx/html nginx
 ```
+### Swarm Commands 
+```sh
+Commands:
+  docker swarm init 
+  docker service create alpine 
+  docker service update [SERVICE NAME] --replicas 3
+  docker service rm [SERVICE NAME]
+```

@@ -1,0 +1,7 @@
+This is a new text 
+Press J,K for up and down movement 
+Press H,J for right and left movement 
+Press W,B for moving forward and backward by words 
+Press yy will yank a line 
+and pressing p will paste that line
+Press dd delete a line
